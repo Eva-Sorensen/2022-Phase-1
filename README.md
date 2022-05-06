@@ -87,11 +87,11 @@ We have also created small modular workshops for each section of MS Learn. **The
 - [ ] Week 8 (3 JUN - 9 JUN)
   - [ ] [JavaScript](https://docs.microsoft.com/en-us/learn/paths/web-development-101/)
   - [ ] [7. JavaScript workshop](https://github.com/NZMSA/2022-Phase-1/tree/main/7.%20JS%20workshop)
-- [ ] Week 9 (10 JUN - 16 JUN)
+- [X] Week 9 (10 JUN - 16 JUN)
   - [X] [TypeScript](https://docs.microsoft.com/en-us/learn/paths/build-javascript-applications-typescript/)
   - [X] [8. TypeScript workshop](https://github.com/NZMSA/2022-Phase-1/tree/main/8.%20Typescript%20workshop)
 - [ ] Week 10 (17 JUN - 23 JUN)
-  - [ ] [React](https://docs.microsoft.com/en-us/learn/paths/react/)
+  - [X] [React](https://docs.microsoft.com/en-us/learn/paths/react/)
   - [ ] [9. React workshop](./9.%20React%20workshop/)
 - [ ] Spend the next 4 days relaxing - you're done!!!
 
